@@ -1,0 +1,144 @@
+Unnamed: 0,Index,team,opponent,round,same city,date,time,day,venue,attendance,result 1,result 2,result 3,points in last 3,trend,win percentage in last 3,draw percentage in last 3,loss percentage in last 3,points,category,result 1 opponent,result 2 opponent,result 3 opponent,points in last 3 opponent,trend opponent,win percentage in last 3 opponent,draw percentage in last 3 opponent,loss percentage in last 3 opponent,points opponent,category opponent,points difference,category difference,result,season
+888,44,Manchester United,Arsenal,Matchweek 34,0,2022-04-23,12:30,Sat,Away,yes,L,W,L,3,Neutral,33.33,0.0,66.66,54,6,L,L,W,3,Neutral,33.33,0.0,66.66,57,6,-3,0,L,2022
+19,31,Arsenal,Southampton,Matchweek 20,0,2021-01-26,20:15,Tue,Away,no,W,D,W,7,Positive,66.66,33.33,0.0,27,3,D,W,L,4,Neutral,33.33,33.33,33.33,29,3,-2,0,W,2021
+1364,10,Wolverhampton,Leeds United,Matchweek 9,0,2021-10-23,15:00,Sat,Away,yes,W,W,W,9,Positive,100.0,0.0,0.0,12,2,L,W,L,3,Neutral,33.33,0.0,66.66,6,1,6,0,D,2022
+868,19,Manchester United,Arsenal,Matchweek 14,0,2021-12-02,20:15,Thu,Home,yes,L,L,D,1,Negative,0.0,33.33,66.66,18,2,W,L,W,6,Neutral,66.66,0.0,33.33,23,3,-5,0,W,2022
+1410,22,Liverpool,Crystal Palace,Matchweek 23,0,2022-01-23,14:00,Sun,Away,yes,L,D,W,4,Neutral,33.33,33.33,33.33,45,5,W,L,D,4,Neutral,33.33,33.33,33.33,24,3,21,2,W,2022
+1072,3,Southampton,Newcastle United,Matchweek 3,0,2021-08-28,15:00,Sat,Away,yes,-,L,D,1,Negative,0.0,50.0,50.0,1,1,-,L,L,0,Negative,0.0,0.0,100.0,0,0,1,0,D,2022
+908,24,Newcastle United,Leeds United,Matchweek 20,0,2021-01-26,18:00,Tue,Home,no,L,L,L,0,Negative,0.0,0.0,100.0,19,2,W,L,L,3,Neutral,33.33,0.0,66.66,23,3,-4,0,L,2021
+644,9,Leicester City,Leeds United,Matchweek 7,0,2020-11-02,20:00,Mon,Away,no,L,L,W,3,Neutral,33.33,0.0,66.66,12,2,D,L,W,4,Neutral,33.33,33.33,33.33,10,1,2,0,W,2021
+793,15,Manchester City,Crystal Palace,Matchweek 10,0,2021-10-30,15:00,Sat,Home,yes,D,W,W,7,Positive,66.66,33.33,0.0,20,2,D,D,D,3,Neutral,0.0,100.0,0.0,9,1,11,1,L,2022
+1040,9,Southampton,Wolverhampton,Matchweek 9,0,2020-11-23,20:00,Mon,Away,no,W,W,W,9,Positive,100.0,0.0,0.0,16,2,D,W,L,4,Neutral,33.33,33.33,33.33,13,2,3,0,D,2021
+431,6,Crystal Palace,Brighton,Matchweek 6,0,2021-09-27,20:00,Mon,Home,yes,D,W,L,4,Neutral,33.33,33.33,33.33,5,1,L,W,W,6,Neutral,66.66,0.0,33.33,12,2,-7,0,D,2022
+447,23,Crystal Palace,Liverpool,Matchweek 23,0,2022-01-23,14:00,Sun,Home,yes,W,L,D,4,Neutral,33.33,33.33,33.33,24,3,L,D,W,4,Neutral,33.33,33.33,33.33,45,5,-21,-2,L,2022
+1368,14,Wolverhampton,Norwich City,Matchweek 13,0,2021-11-27,15:00,Sat,Away,yes,W,L,W,6,Neutral,66.66,0.0,33.33,19,2,L,W,W,6,Neutral,66.66,0.0,33.33,8,1,11,1,D,2022
+176,2,Brighton,Newcastle United,Matchweek 2,0,2020-09-20,14:00,Sun,Away,no,-,-,L,0,Insufficient Data,0.0,0.0,100.0,0,0,-,-,W,3,Insufficient Data,100.0,0.0,0.0,3,1,-3,0,W,2021
+243,35,Brighton,Arsenal,Matchweek 32,0,2022-04-09,15:00,Sat,Away,yes,L,L,D,1,Negative,0.0,33.33,66.66,34,4,L,W,L,3,Neutral,33.33,0.0,66.66,54,6,-20,-2,W,2022
+1403,15,Liverpool,Wolverhampton,Matchweek 15,0,2021-12-04,15:00,Sat,Away,yes,W,W,W,9,Positive,100.0,0.0,0.0,31,4,W,D,D,5,Neutral,33.33,66.66,0.0,21,3,10,1,W,2022
+178,6,Brighton,Everton,Matchweek 4,0,2020-10-03,15:00,Sat,Away,no,L,W,L,3,Neutral,33.33,0.0,66.66,3,1,W,W,W,9,Positive,100.0,0.0,0.0,9,1,-6,0,L,2021
+1098,34,Southampton,Watford,Matchweek 29,0,2022-03-13,14:00,Sun,Home,yes,W,L,L,3,Neutral,33.33,0.0,66.66,35,4,D,L,L,1,Negative,0.0,33.33,66.66,19,2,16,1,L,2022
+778,51,Manchester City,Aston Villa,Matchweek 32,0,2021-04-21,20:15,Wed,Away,no,W,W,L,6,Neutral,66.66,0.0,33.33,74,8,L,W,L,3,Neutral,33.33,0.0,66.66,44,5,30,3,W,2021
+564,40,Fulham,Southampton,Matchweek 36,0,2021-05-15,15:00,Sat,Away,no,D,L,L,1,Negative,0.0,33.33,66.66,27,3,D,L,W,4,Neutral,33.33,33.33,33.33,40,4,-13,-1,L,2021
+1070,0,Southampton,Everton,Matchweek 1,0,2021-08-14,15:00,Sat,Away,yes,-,-,-,0,Insufficient Data,0.0,0.0,0.0,0,0,-,-,-,0,Insufficient Data,0.0,0.0,0.0,0,0,0,0,L,2022
+1391,3,Liverpool,Chelsea,Matchweek 3,0,2021-08-28,17:30,Sat,Home,yes,-,W,W,6,Positive,100.0,0.0,0.0,6,0,-,W,W,6,Positive,100.0,0.0,0.0,6,1,0,0,D,2022
+1278,38,West Ham United,Chelsea,Matchweek 33,1,2021-04-24,17:30,Sat,Home,no,W,W,L,6,Neutral,66.66,0.0,33.33,55,6,L,W,D,4,Neutral,33.33,33.33,33.33,55,6,0,0,L,2021
+1203,31,Watford,Southampton,Matchweek 29,0,2022-03-13,14:00,Sun,Away,yes,D,L,L,1,Negative,0.0,33.33,66.66,19,2,W,L,L,3,Neutral,33.33,0.0,66.66,35,4,-16,-1,W,2022
+1144,4,Tottenham,Watford,Matchweek 3,1,2021-08-29,14:00,Sun,Home,yes,-,W,W,6,Positive,100.0,0.0,0.0,6,1,-,W,L,3,Neutral,50.0,0.0,50.0,3,1,3,0,W,2022
+1328,11,Wolverhampton,Liverpool,Matchweek 11,0,2020-12-06,19:15,Sun,Away,yes,L,D,W,4,Neutral,33.33,33.33,33.33,17,2,D,W,D,5,Neutral,33.33,66.66,0.0,21,3,-4,0,L,2021
+1202,30,Watford,Wolverhampton,Matchweek 19,0,2022-03-10,19:30,Thu,Away,yes,L,D,L,1,Negative,0.0,33.33,66.66,19,2,L,L,L,0,Negative,0.0,0.0,100.0,40,4,-21,-2,L,2022
+1400,12,Liverpool,Arsenal,Matchweek 12,0,2021-11-20,17:30,Sat,Home,yes,W,D,L,4,Neutral,33.33,33.33,33.33,22,3,W,W,W,9,Positive,100.0,0.0,0.0,20,2,2,0,W,2022
+310,29,Burnley,Chelsea,Matchweek 28,0,2022-03-05,15:00,Sat,Home,yes,W,D,L,4,Neutral,33.33,33.33,33.33,21,3,D,W,W,7,Positive,66.66,33.33,0.0,50,5,-29,-2,L,2022
+291,8,Burnley,Norwich City,Matchweek 7,0,2021-10-02,15:00,Sat,Home,yes,L,L,D,1,Negative,0.0,33.33,66.66,2,1,L,L,L,0,Negative,0.0,0.0,100.0,0,0,2,0,D,2022
+1231,26,West Brom,Manchester United,Matchweek 24,0,2021-02-14,14:00,Sun,Home,no,D,L,L,1,Negative,0.0,33.33,66.66,12,2,D,W,D,5,Neutral,33.33,66.66,0.0,45,5,-33,-3,D,2021
+940,14,Newcastle United,Norwich City,Matchweek 14,0,2021-11-30,19:30,Tue,Home,yes,D,D,L,2,Negative,0.0,66.66,33.33,6,1,W,W,D,7,Positive,66.66,33.33,0.0,9,1,-3,0,D,2022
+732,36,Liverpool,Everton,Matchweek 25,1,2021-02-20,17:30,Sat,Home,no,L,L,L,0,Negative,0.0,0.0,100.0,40,4,D,L,L,1,Negative,0.0,33.33,66.66,37,4,3,0,L,2021
+1357,1,Wolverhampton,Tottenham,Matchweek 2,0,2021-08-22,14:00,Sun,Home,yes,-,-,L,0,Insufficient Data,0.0,0.0,100.0,0,0,-,-,W,3,Insufficient Data,100.0,0.0,0.0,3,1,-3,0,L,2022
+698,35,Leicester City,Wolverhampton,Matchweek 26,0,2022-02-20,16:30,Sun,Away,yes,D,L,D,2,Negative,0.0,66.66,33.33,27,3,W,L,W,6,Neutral,66.66,0.0,33.33,37,4,-10,-1,L,2022
+799,24,Manchester City,Wolverhampton,Matchweek 16,0,2021-12-11,12:30,Sat,Home,yes,W,W,W,9,Positive,100.0,0.0,0.0,35,4,D,D,L,2,Negative,0.0,66.66,33.33,21,3,14,1,W,2022
+219,8,Brighton,Arsenal,Matchweek 7,0,2021-10-02,17:30,Sat,Home,yes,W,W,D,7,Positive,66.66,33.33,0.0,13,2,W,W,W,9,Positive,100.0,0.0,0.0,9,1,4,0,D,2022
+1353,39,Wolverhampton,Tottenham,Matchweek 36,0,2021-05-16,14:05,Sun,Away,no,L,D,W,4,Neutral,33.33,33.33,33.33,45,5,W,W,L,6,Neutral,66.66,0.0,33.33,56,6,-11,-1,L,2021
+506,11,Everton,Wolverhampton,Matchweek 10,0,2021-11-01,20:00,Mon,Away,yes,D,L,L,1,Negative,0.0,33.33,66.66,14,2,W,W,D,7,Positive,66.66,33.33,0.0,13,2,1,0,L,2022
+706,48,Leicester City,Everton,Matchweek 18,0,2022-04-20,19:45,Wed,Away,yes,D,W,L,4,Neutral,33.33,33.33,33.33,40,4,L,L,W,3,Neutral,33.33,0.0,66.66,28,3,12,1,D,2022
+1285,1,West Ham United,Leicester City,Matchweek 2,0,2021-08-23,20:00,Mon,Home,yes,-,-,W,3,Insufficient Data,100.0,0.0,0.0,3,1,-,-,W,3,Insufficient Data,100.0,0.0,0.0,3,1,0,0,W,2022
+956,31,Newcastle United,Tottenham,Matchweek 31,0,2022-04-03,16:30,Sun,Away,yes,W,L,L,3,Neutral,33.33,0.0,66.66,31,4,L,W,W,6,Neutral,66.66,0.0,33.33,51,6,-20,-2,L,2022
+1173,47,Tottenham,Brighton,Matchweek 33,0,2022-04-16,12:30,Sat,Home,yes,W,W,W,9,Positive,100.0,0.0,0.0,57,6,L,D,W,4,Neutral,33.33,33.33,33.33,37,4,20,2,L,2022
+737,42,Liverpool,Arsenal,Matchweek 30,0,2021-04-03,20:00,Sat,Away,no,L,L,W,3,Neutral,33.33,0.0,66.66,46,5,D,W,D,5,Neutral,33.33,66.66,0.0,42,5,4,0,W,2021
+237,29,Brighton,Burnley,Matchweek 26,0,2022-02-19,15:00,Sat,Home,yes,D,W,L,4,Neutral,33.33,33.33,33.33,33,4,D,D,L,2,Negative,0.0,66.66,33.33,14,2,19,1,L,2022
+723,24,Liverpool,Newcastle United,Matchweek 16,0,2020-12-30,20:00,Wed,Away,no,W,W,D,7,Positive,66.66,33.33,0.0,32,4,L,D,L,1,Negative,0.0,33.33,66.66,18,2,14,1,D,2021
+958,33,Newcastle United,Leicester City,Matchweek 33,0,2022-04-17,14:15,Sun,Home,yes,L,L,W,3,Neutral,33.33,0.0,66.66,34,4,W,D,W,7,Positive,66.66,33.33,0.0,40,4,-6,0,W,2022
+183,11,Brighton,Aston Villa,Matchweek 9,0,2020-11-21,15:00,Sat,Away,no,D,L,D,2,Negative,0.0,66.66,33.33,6,1,L,L,W,3,Neutral,33.33,0.0,66.66,15,2,-9,0,W,2021
+1208,0,West Brom,Leicester City,Matchweek 1,0,2020-09-13,14:00,Sun,Home,no,-,-,-,0,Insufficient Data,0.0,0.0,0.0,0,0,-,-,-,0,Insufficient Data,0.0,0.0,0.0,0,0,0,0,L,2021
+1304,30,West Ham United,Norwich City,Matchweek 18,0,2022-01-12,19:45,Wed,Home,yes,L,W,W,6,Neutral,66.66,0.0,33.33,34,4,L,L,L,0,Negative,0.0,0.0,100.0,10,1,24,2,W,2022
+768,35,Manchester City,Tottenham,Matchweek 24,0,2021-02-13,17:30,Sat,Home,no,W,W,W,9,Positive,100.0,0.0,0.0,50,5,L,L,W,3,Neutral,33.33,0.0,66.66,36,4,14,1,W,2021
+717,16,Liverpool,Brighton,Matchweek 10,0,2020-11-28,12:30,Sat,Away,no,W,D,W,7,Positive,66.66,33.33,0.0,20,2,L,D,W,4,Neutral,33.33,33.33,33.33,9,1,11,1,D,2021
+838,33,Manchester United,Southampton,Matchweek 22,0,2021-02-02,20:15,Tue,Home,no,W,L,D,4,Neutral,33.33,33.33,33.33,41,5,L,L,L,0,Negative,0.0,0.0,100.0,29,3,12,1,W,2021
+855,0,Manchester United,Leeds United,Matchweek 1,0,2021-08-14,12:30,Sat,Home,yes,-,-,-,0,Insufficient Data,0.0,0.0,0.0,0,0,-,-,-,0,Insufficient Data,0.0,0.0,0.0,0,0,0,0,W,2022
+1256,13,West Ham United,Manchester United,Matchweek 11,0,2020-12-05,17:30,Sat,Home,yes,W,W,W,9,Positive,100.0,0.0,0.0,17,2,W,W,W,9,Positive,100.0,0.0,0.0,16,2,1,0,L,2021
+753,12,Manchester City,Tottenham,Matchweek 9,0,2020-11-21,17:30,Sat,Away,no,D,W,D,5,Neutral,33.33,66.66,0.0,12,2,W,W,W,9,Positive,100.0,0.0,0.0,17,2,-5,0,L,2021
+936,10,Newcastle United,Chelsea,Matchweek 10,0,2021-10-30,15:00,Sat,Home,yes,L,L,D,1,Negative,0.0,33.33,66.66,4,1,W,W,W,9,Positive,100.0,0.0,0.0,22,3,-18,-1,L,2022
+267,25,Burnley,Manchester City,Matchweek 22,0,2021-02-03,18:00,Wed,Home,no,W,W,L,6,Neutral,66.66,0.0,33.33,22,3,W,W,W,9,Positive,100.0,0.0,0.0,44,5,-22,-2,L,2021
+1142,0,Tottenham,Manchester City,Matchweek 1,0,2021-08-15,16:30,Sun,Home,yes,-,-,-,0,Insufficient Data,0.0,0.0,0.0,0,0,-,-,-,0,Insufficient Data,0.0,0.0,0.0,0,0,0,0,W,2022
+1038,7,Southampton,Aston Villa,Matchweek 7,0,2020-11-01,12:00,Sun,Away,no,W,D,W,7,Positive,66.66,33.33,0.0,10,1,W,W,L,6,Neutral,66.66,0.0,33.33,12,2,-2,0,W,2021
+690,22,Leicester City,Aston Villa,Matchweek 15,0,2021-12-05,16:30,Sun,Away,yes,L,W,D,4,Neutral,33.33,33.33,33.33,19,2,W,W,L,6,Neutral,66.66,0.0,33.33,16,2,3,0,L,2022
+148,9,Brentford,Chelsea,Matchweek 8,1,2021-10-16,17:30,Sat,Home,yes,W,D,W,7,Positive,66.66,33.33,0.0,12,2,W,L,W,6,Neutral,66.66,0.0,33.33,16,2,-4,0,L,2022
+1178,4,Watford,Wolverhampton,Matchweek 4,0,2021-09-11,15:00,Sat,Home,yes,W,L,L,3,Neutral,33.33,0.0,66.66,3,1,L,L,L,0,Negative,0.0,0.0,100.0,0,0,3,0,L,2022
+399,12,Crystal Palace,Tottenham,Matchweek 12,1,2020-12-13,14:15,Sun,Home,yes,L,L,W,3,Neutral,33.33,0.0,66.66,16,2,W,D,W,7,Positive,66.66,33.33,0.0,24,3,-8,0,D,2021
+648,16,Leicester City,Sheffield United,Matchweek 11,0,2020-12-06,14:15,Sun,Away,no,W,L,L,3,Neutral,33.33,0.0,66.66,18,2,L,L,L,0,Negative,0.0,0.0,100.0,1,1,17,1,W,2021
+275,34,Burnley,Everton,Matchweek 28,0,2021-03-13,17:30,Sat,Away,no,L,D,D,2,Negative,0.0,66.66,33.33,30,3,W,W,L,6,Neutral,66.66,0.0,33.33,46,5,-16,-1,W,2021
+368,20,Chelsea,Manchester United,Matchweek 13,0,2021-11-28,16:30,Sun,Home,yes,W,D,W,7,Positive,66.66,33.33,0.0,29,3,W,L,L,3,Neutral,33.33,0.0,66.66,17,2,12,1,D,2022
+660,31,Leicester City,Wolverhampton,Matchweek 23,0,2021-02-07,14:00,Sun,Away,no,D,L,W,4,Neutral,33.33,33.33,33.33,42,5,D,L,W,4,Neutral,33.33,33.33,33.33,26,3,16,1,D,2021
+1066,40,Southampton,Crystal Palace,Matchweek 32,0,2021-05-11,20:15,Tue,Home,no,L,D,L,1,Negative,0.0,33.33,66.66,37,4,L,L,W,3,Neutral,33.33,0.0,66.66,41,5,-4,0,W,2021
+841,38,Manchester United,Newcastle United,Matchweek 25,0,2021-02-21,19:00,Sun,Home,no,W,D,D,5,Neutral,33.33,66.66,0.0,46,5,L,W,L,3,Neutral,33.33,0.0,66.66,25,3,21,2,W,2021
+901,15,Newcastle United,Fulham,Matchweek 14,0,2020-12-19,20:00,Sat,Home,no,W,W,L,6,Neutral,66.66,0.0,33.33,17,2,L,D,D,2,Negative,0.0,66.66,33.33,9,1,8,0,D,2021
+1021,31,Sheffield United,Southampton,Matchweek 27,0,2021-03-06,15:00,Sat,Home,no,L,L,W,3,Neutral,33.33,0.0,66.66,14,2,D,L,L,1,Negative,0.0,33.33,66.66,30,3,-16,-1,L,2021
+334,24,Chelsea,Manchester City,Matchweek 17,0,2021-01-03,16:30,Sun,Home,no,W,L,D,4,Neutral,33.33,33.33,33.33,26,3,D,W,W,7,Positive,66.66,33.33,0.0,26,3,0,0,L,2021
+542,16,Fulham,Newcastle United,Matchweek 14,0,2020-12-19,20:00,Sat,Away,no,L,D,D,2,Negative,0.0,66.66,33.33,9,1,W,W,L,6,Neutral,66.66,0.0,33.33,17,2,-8,0,D,2021
+1171,45,Tottenham,Newcastle United,Matchweek 31,0,2022-04-03,16:30,Sun,Home,yes,L,W,W,6,Neutral,66.66,0.0,33.33,51,6,W,L,L,3,Neutral,33.33,0.0,66.66,31,4,20,2,W,2022
+805,31,Manchester City,Chelsea,Matchweek 22,0,2022-01-15,12:30,Sat,Home,yes,W,W,W,9,Positive,100.0,0.0,0.0,53,6,W,D,D,5,Neutral,33.33,66.66,0.0,43,5,10,1,W,2022
+772,40,Manchester City,Wolverhampton,Matchweek 29,0,2021-03-02,20:00,Tue,Home,no,W,W,W,9,Positive,100.0,0.0,0.0,62,7,W,W,D,7,Positive,66.66,33.33,0.0,34,4,28,2,W,2021
+639,1,Leicester City,Burnley,Matchweek 2,0,2020-09-20,19:00,Sun,Home,no,-,-,W,3,Insufficient Data,100.0,0.0,0.0,3,1,-,-,-,0,Insufficient Data,0.0,0.0,0.0,0,0,3,0,W,2021
+594,29,Leeds United,Chelsea,Matchweek 28,0,2021-03-13,12:30,Sat,Home,no,W,L,L,3,Neutral,33.33,0.0,66.66,35,4,D,W,W,7,Positive,66.66,33.33,0.0,50,5,-15,-1,D,2021
+435,10,Crystal Palace,Manchester City,Matchweek 10,0,2021-10-30,15:00,Sat,Away,yes,D,D,D,3,Neutral,0.0,100.0,0.0,9,1,D,W,W,7,Positive,66.66,33.33,0.0,20,2,-11,-1,W,2022
+748,4,Manchester City,Leeds United,Matchweek 4,0,2020-10-03,17:30,Sat,Away,no,-,W,L,3,Neutral,50.0,0.0,50.0,3,1,L,W,W,6,Neutral,66.66,0.0,33.33,6,1,-3,0,D,2021
+378,35,Chelsea,Brighton,Matchweek 24,0,2022-01-18,20:00,Tue,Away,yes,D,D,L,2,Negative,0.0,66.66,33.33,43,5,D,W,D,5,Neutral,33.33,66.66,0.0,28,3,15,1,D,2022
+612,9,Leeds United,Southampton,Matchweek 8,0,2021-10-16,15:00,Sat,Away,yes,D,L,W,4,Neutral,33.33,33.33,33.33,6,1,D,L,L,1,Negative,0.0,33.33,66.66,4,1,2,0,L,2022
+255,11,Burnley,Manchester City,Matchweek 10,0,2020-11-28,15:00,Sat,Away,no,L,D,W,4,Neutral,33.33,33.33,33.33,5,1,W,D,L,4,Neutral,33.33,33.33,33.33,12,2,-7,0,L,2021
+18,29,Arsenal,Newcastle United,Matchweek 19,0,2021-01-18,20:00,Mon,Home,no,W,W,D,7,Positive,66.66,33.33,0.0,24,3,D,L,L,1,Negative,0.0,33.33,66.66,19,2,5,0,W,2021
+1033,2,Southampton,Tottenham,Matchweek 2,0,2020-09-20,12:00,Sun,Home,no,-,-,L,0,Insufficient Data,0.0,0.0,100.0,0,0,-,-,L,0,Insufficient Data,0.0,0.0,100.0,0,0,0,0,L,2021
+1054,26,Southampton,Wolverhampton,Matchweek 24,0,2021-02-14,12:00,Sun,Home,no,L,L,L,0,Negative,0.0,0.0,100.0,29,3,L,W,D,4,Neutral,33.33,33.33,33.33,27,3,2,0,L,2021
+1059,31,Southampton,Manchester City,Matchweek 33,0,2021-03-10,18:00,Wed,Away,no,L,L,W,3,Neutral,33.33,0.0,66.66,33,4,W,W,L,6,Neutral,66.66,0.0,33.33,65,7,-32,-3,L,2021
+764,30,Manchester City,West Brom,Matchweek 20,0,2021-01-26,20:15,Tue,Away,no,W,W,W,9,Positive,100.0,0.0,0.0,38,4,L,W,L,3,Neutral,33.33,0.0,66.66,11,2,27,2,W,2021
+919,35,Newcastle United,Burnley,Matchweek 31,0,2021-04-11,12:00,Sun,Away,no,D,L,D,2,Negative,0.0,66.66,33.33,29,3,D,W,L,4,Neutral,33.33,33.33,33.33,33,4,-4,0,W,2021
+1298,21,West Ham United,Chelsea,Matchweek 15,1,2021-12-04,12:30,Sat,Home,yes,L,L,D,1,Negative,0.0,33.33,66.66,24,3,W,D,W,7,Positive,66.66,33.33,0.0,33,4,-9,0,W,2022
+327,15,Chelsea,Tottenham,Matchweek 10,0,2020-11-29,16:30,Sun,Home,no,W,W,W,9,Positive,100.0,0.0,0.0,18,2,W,W,W,9,Positive,100.0,0.0,0.0,20,2,-2,0,D,2021
+1147,9,Tottenham,Arsenal,Matchweek 6,1,2021-09-26,16:30,Sun,Away,yes,W,L,L,3,Neutral,33.33,0.0,66.66,9,1,L,W,W,6,Neutral,66.66,0.0,33.33,6,1,3,0,L,2022
+410,24,Crystal Palace,Leeds United,Matchweek 23,0,2021-02-08,20:00,Mon,Away,no,L,W,W,6,Neutral,66.66,0.0,33.33,29,3,W,W,L,6,Neutral,66.66,0.0,33.33,29,3,0,0,L,2021
+788,6,Manchester City,Southampton,Matchweek 5,0,2021-09-18,15:00,Sat,Home,yes,W,W,W,9,Positive,100.0,0.0,0.0,9,1,D,D,D,3,Neutral,0.0,100.0,0.0,3,1,6,0,D,2022
+432,7,Crystal Palace,Leicester City,Matchweek 7,0,2021-10-03,14:00,Sun,Home,yes,W,L,D,4,Neutral,33.33,33.33,33.33,6,1,L,L,D,1,Negative,0.0,33.33,66.66,7,1,-1,0,D,2022
+139,33,Aston Villa,Tottenham,Matchweek 32,0,2022-04-09,17:30,Sat,Home,yes,L,L,L,0,Negative,0.0,0.0,100.0,36,4,W,W,W,9,Positive,100.0,0.0,0.0,54,6,-18,-1,L,2022
+987,31,Norwich City,Brentford,Matchweek 28,0,2022-03-05,15:00,Sat,Home,yes,L,L,L,0,Negative,0.0,0.0,100.0,17,2,D,L,L,1,Negative,0.0,33.33,66.66,24,3,-7,0,L,2022
+407,21,Crystal Palace,West Ham United,Matchweek 20,1,2021-01-26,18:00,Tue,Home,no,W,D,L,4,Neutral,33.33,33.33,33.33,23,3,W,W,W,9,Positive,100.0,0.0,0.0,32,4,-9,0,L,2021
+700,38,Leicester City,Leeds United,Matchweek 28,0,2022-03-05,12:30,Sat,Home,yes,D,L,W,4,Neutral,33.33,33.33,33.33,30,3,L,L,L,0,Negative,0.0,0.0,100.0,23,3,7,0,W,2022
+618,16,Leeds United,Crystal Palace,Matchweek 14,0,2021-11-30,20:15,Tue,Home,yes,D,L,D,2,Negative,0.0,66.66,33.33,12,2,W,D,L,4,Neutral,33.33,33.33,33.33,16,2,-4,0,W,2022
+734,38,Liverpool,Chelsea,Matchweek 29,0,2021-03-04,20:15,Thu,Home,no,L,L,W,3,Neutral,33.33,0.0,66.66,43,5,W,D,D,5,Neutral,33.33,66.66,0.0,44,5,-1,0,L,2021
+1376,23,Wolverhampton,Brentford,Matchweek 23,0,2022-01-22,15:00,Sat,Away,yes,D,W,W,7,Positive,66.66,33.33,0.0,31,4,L,L,L,0,Negative,0.0,0.0,100.0,23,3,8,0,W,2022
+280,39,Burnley,West Ham United,Matchweek 34,0,2021-05-03,20:15,Mon,Home,no,L,L,W,3,Neutral,33.33,0.0,66.66,36,4,W,L,L,3,Neutral,33.33,0.0,66.66,55,6,-19,-1,L,2021
+1223,17,West Brom,Leeds United,Matchweek 16,0,2020-12-29,18:00,Tue,Home,no,D,L,D,2,Negative,0.0,66.66,33.33,8,1,W,L,W,6,Neutral,66.66,0.0,33.33,20,2,-12,-1,L,2021
+968,9,Norwich City,Brighton,Matchweek 8,0,2021-10-16,15:00,Sat,Home,yes,L,L,D,1,Negative,0.0,33.33,66.66,1,1,W,D,D,5,Neutral,33.33,66.66,0.0,14,2,-13,-1,D,2022
+137,31,Aston Villa,Arsenal,Matchweek 30,0,2022-03-19,12:30,Sat,Home,yes,W,W,L,6,Neutral,66.66,0.0,33.33,36,4,W,W,L,6,Neutral,66.66,0.0,33.33,51,6,-15,-1,L,2022
+325,12,Chelsea,Sheffield United,Matchweek 8,0,2020-11-07,17:30,Sat,Home,no,D,D,W,5,Neutral,33.33,66.66,0.0,12,2,D,L,L,1,Negative,0.0,33.33,66.66,1,1,11,1,W,2021
+1215,9,West Brom,Tottenham,Matchweek 8,0,2020-11-08,12:00,Sun,Home,no,D,D,L,2,Negative,0.0,66.66,33.33,3,1,D,W,W,7,Positive,66.66,33.33,0.0,14,2,-11,-1,L,2021
+306,25,Burnley,Brighton,Matchweek 26,0,2022-02-19,15:00,Sat,Away,yes,D,D,L,2,Negative,0.0,66.66,33.33,14,2,D,W,L,4,Neutral,33.33,33.33,33.33,33,4,-19,-1,W,2022
+372,25,Chelsea,Everton,Matchweek 17,0,2021-12-16,19:45,Thu,Home,yes,W,L,W,6,Neutral,66.66,0.0,33.33,36,4,L,W,L,3,Neutral,33.33,0.0,66.66,18,2,18,1,D,2022
+8,14,Arsenal,Leeds United,Matchweek 9,0,2020-11-22,16:30,Sun,Away,no,L,W,L,3,Neutral,33.33,0.0,66.66,12,2,W,L,L,3,Neutral,33.33,0.0,66.66,10,1,2,0,D,2021
+1296,19,West Ham United,Manchester City,Matchweek 13,0,2021-11-28,14:00,Sun,Away,yes,W,W,L,6,Neutral,66.66,0.0,33.33,23,3,L,W,W,6,Neutral,66.66,0.0,33.33,26,3,-3,0,L,2022
+761,26,Manchester City,Brighton,Matchweek 18,0,2021-01-13,18:00,Wed,Home,no,W,W,W,9,Positive,100.0,0.0,0.0,29,3,D,L,D,2,Negative,0.0,66.66,33.33,14,2,15,1,W,2021
+926,42,Newcastle United,Fulham,Matchweek 38,0,2021-05-23,16:00,Sun,Away,yes,W,L,W,6,Neutral,66.66,0.0,33.33,42,5,L,L,D,1,Negative,0.0,33.33,66.66,28,3,14,1,W,2021
+1148,11,Tottenham,Aston Villa,Matchweek 7,0,2021-10-03,14:00,Sun,Home,yes,L,L,L,0,Negative,0.0,0.0,100.0,9,1,L,W,W,6,Neutral,66.66,0.0,33.33,10,1,-1,0,W,2022
+620,18,Leeds United,Chelsea,Matchweek 16,0,2021-12-11,15:00,Sat,Away,yes,D,W,D,5,Neutral,33.33,66.66,0.0,16,2,D,W,L,4,Neutral,33.33,33.33,33.33,33,4,-17,-1,L,2022
+456,35,Crystal Palace,Leicester City,Matchweek 32,0,2022-04-10,14:00,Sun,Away,yes,W,D,W,7,Positive,66.66,33.33,0.0,37,4,L,W,D,4,Neutral,33.33,33.33,33.33,37,4,0,0,L,2022
+917,33,Newcastle United,Brighton,Matchweek 29,0,2021-03-20,20:00,Sat,Away,no,D,D,D,3,Neutral,0.0,100.0,0.0,28,3,L,L,W,3,Neutral,33.33,0.0,66.66,29,3,-1,0,L,2021
+1116,23,Tottenham,Liverpool,Matchweek 13,0,2020-12-16,20:00,Wed,Away,yes,D,W,D,5,Neutral,33.33,66.66,0.0,25,3,D,W,D,5,Neutral,33.33,66.66,0.0,25,3,0,0,L,2021
+2,4,Arsenal,Liverpool,Matchweek 3,0,2020-09-28,20:00,Mon,Away,no,-,W,W,6,Positive,100.0,0.0,0.0,6,1,-,W,W,6,Positive,100.0,0.0,0.0,6,1,0,0,L,2021
+490,39,Everton,Arsenal,Matchweek 33,0,2021-04-23,20:00,Fri,Away,no,D,D,D,3,Neutral,0.0,100.0,0.0,49,5,L,W,D,4,Neutral,33.33,33.33,33.33,46,5,3,0,W,2021
+849,52,Manchester United,Leeds United,Matchweek 33,0,2021-04-25,14:00,Sun,Away,no,W,W,W,9,Positive,100.0,0.0,0.0,66,7,W,W,D,7,Positive,66.66,33.33,0.0,46,5,20,2,D,2021
+595,30,Leeds United,Fulham,Matchweek 29,0,2021-03-19,20:00,Fri,Away,no,L,L,D,1,Negative,0.0,33.33,66.66,36,4,L,W,L,3,Neutral,33.33,0.0,66.66,26,3,10,1,W,2021
+519,26,Everton,Southampton,Matchweek 26,0,2022-02-19,15:00,Sat,Away,yes,L,L,W,3,Neutral,33.33,0.0,66.66,22,3,D,W,D,5,Neutral,33.33,66.66,0.0,29,3,-7,0,L,2022
+42,5,Arsenal,Burnley,Matchweek 5,0,2021-09-18,15:00,Sat,Away,yes,L,L,W,3,Neutral,33.33,0.0,66.66,3,1,L,D,L,1,Negative,0.0,33.33,66.66,1,1,2,0,W,2022
+1062,35,Southampton,West Brom,Matchweek 31,0,2021-04-12,18:00,Mon,Away,no,L,L,W,3,Neutral,33.33,0.0,66.66,36,4,D,L,W,4,Neutral,33.33,33.33,33.33,21,3,15,1,L,2021
+562,38,Fulham,Chelsea,Matchweek 34,1,2021-05-01,17:30,Sat,Away,no,L,L,D,1,Negative,0.0,33.33,66.66,27,3,W,D,W,7,Positive,66.66,33.33,0.0,58,6,-31,-3,L,2021
+345,39,Chelsea,Everton,Matchweek 27,0,2021-03-08,18:00,Mon,Home,no,D,D,W,5,Neutral,33.33,66.66,0.0,47,5,W,W,W,9,Positive,100.0,0.0,0.0,46,5,1,0,W,2021
+1340,25,Wolverhampton,Leicester City,Matchweek 23,0,2021-02-07,14:00,Sun,Home,no,D,L,W,4,Neutral,33.33,33.33,33.33,26,3,D,L,W,4,Neutral,33.33,33.33,33.33,42,5,-16,-1,D,2021
+745,52,Liverpool,Crystal Palace,Matchweek 38,0,2021-05-23,16:00,Sun,Home,yes,W,W,W,9,Positive,100.0,0.0,0.0,66,7,L,W,L,3,Neutral,33.33,0.0,66.66,44,5,22,2,W,2021
+1355,41,Wolverhampton,Manchester United,Matchweek 38,0,2021-05-23,16:00,Sun,Home,yes,W,L,L,3,Neutral,33.33,0.0,66.66,45,5,L,L,D,1,Negative,0.0,33.33,66.66,71,8,-26,-2,L,2021
+1232,27,West Brom,Burnley,Matchweek 25,0,2021-02-20,15:00,Sat,Away,no,L,L,D,1,Negative,0.0,33.33,66.66,13,2,D,W,D,5,Neutral,33.33,66.66,0.0,27,3,-14,-1,D,2021
+1186,13,Watford,Manchester United,Matchweek 12,0,2021-11-20,15:00,Sat,Home,yes,W,L,L,3,Neutral,33.33,0.0,66.66,10,1,L,W,L,3,Neutral,33.33,0.0,66.66,17,2,-7,0,W,2022
+667,42,Leicester City,Manchester City,Matchweek 30,0,2021-04-03,17:30,Sat,Home,no,D,W,W,7,Positive,66.66,33.33,0.0,56,6,L,W,W,6,Neutral,66.66,0.0,33.33,71,8,-15,-1,L,2021
+600,35,Leeds United,Brighton,Matchweek 34,0,2021-05-01,15:00,Sat,Away,no,W,D,D,5,Neutral,33.33,66.66,0.0,47,5,D,D,L,2,Negative,0.0,66.66,33.33,34,4,13,1,L,2021
+988,32,Norwich City,Chelsea,Matchweek 30,0,2022-03-10,19:30,Thu,Home,yes,L,L,L,0,Negative,0.0,0.0,100.0,17,2,W,W,W,9,Positive,100.0,0.0,0.0,53,6,-36,-3,L,2022
+885,41,Manchester United,Everton,Matchweek 32,0,2022-04-09,12:30,Sat,Away,yes,L,W,D,4,Neutral,33.33,33.33,33.33,51,6,W,L,L,3,Neutral,33.33,0.0,66.66,25,3,26,2,L,2022
+866,16,Manchester United,Watford,Matchweek 12,0,2021-11-20,15:00,Sat,Away,yes,L,W,L,3,Neutral,33.33,0.0,66.66,17,2,W,L,L,3,Neutral,33.33,0.0,66.66,10,1,7,0,L,2022
+276,35,Burnley,Southampton,Matchweek 30,0,2021-04-04,12:00,Sun,Away,no,D,D,W,5,Neutral,33.33,66.66,0.0,33,4,W,L,L,3,Neutral,33.33,0.0,66.66,33,4,0,0,L,2021
+520,27,Everton,Manchester City,Matchweek 27,0,2022-02-26,17:30,Sat,Home,yes,L,W,L,3,Neutral,33.33,0.0,66.66,22,3,W,W,L,6,Neutral,66.66,0.0,33.33,63,7,-41,-4,L,2022
+369,21,Chelsea,Watford,Matchweek 14,1,2021-12-01,19:30,Wed,Away,yes,D,W,D,5,Neutral,33.33,66.66,0.0,30,3,L,W,L,3,Neutral,33.33,0.0,66.66,13,2,17,1,W,2022
+486,34,Everton,Burnley,Matchweek 28,0,2021-03-13,17:30,Sat,Home,no,W,W,L,6,Neutral,66.66,0.0,33.33,46,5,L,D,D,2,Negative,0.0,66.66,33.33,30,3,16,1,L,2021
