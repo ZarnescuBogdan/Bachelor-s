@@ -1,0 +1,71 @@
+<!-- templates/index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KickScore</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Football Predictions</h1>
+        <form id="prediction-form">
+            <div class="form-group">
+                <label for="team">Team:</label>
+                <input type="text" id="team" name="team" required>
+            </div>
+            <div class="form-group">
+                <label for="opponent">Opponent:</label>
+                <input type="text" id="opponent" name="opponent" required>
+            </div>
+            <div class="form-group">
+                <label for="venue">Venue:</label>
+                <select id="venue" name="venue" required>
+                    <option value="Home">Home</option>
+                    <option value="Away">Away</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="category-difference">Category Difference:</label>
+                <input type="number" id="category-difference" name="category difference" min="-5" max="5" required>
+            </div>
+            <div class="form-group">
+                <label for="win-percentage">Win Percentage in Last 3:</label>
+                <input type="number" step="0.01" id="win-percentage" name="win percentage in last 3" required oninput="validatePercentage(this)">
+            </div>
+            <div class="form-group">
+                <label for="win-percentage-opponent">Win Percentage in Last 3 (Opponent):</label>
+                <input type="number" step="0.01" id="win-percentage-opponent" name="win percentage in last 3 opponent" required oninput="validatePercentage(this)">
+            </div>
+            <div class="form-group">
+                <label for="draw-percentage">Draw Percentage in Last 3:</label>
+                <input type="number" step="0.01" id="draw-percentage" name="draw percentage in last 3" required oninput="validatePercentage(this)">
+            </div>
+            <div class="form-group">
+                <label for="draw-percentage-opponent">Draw Percentage in Last 3 (Opponent):</label>
+                <input type="number" step="0.01" id="draw-percentage-opponent" name="draw percentage in last 3 opponent" required oninput="validatePercentage(this)">
+            </div>
+            <div class="form-group">
+                <label for="loss-percentage">Loss Percentage in Last 3:</label>
+                <input type="number" step="0.01" id="loss-percentage" name="loss percentage in last 3" required oninput="validatePercentage(this)">
+            </div>
+            <div class="form-group">
+                <label for="loss-percentage-opponent">Loss Percentage in Last 3 (Opponent):</label>
+                <input type="number" step="0.01" id="loss-percentage-opponent" name="loss percentage in last 3 opponent" required oninput="validatePercentage(this)">
+            </div>
+            <button type="submit">Predict Result</button>
+        </form>
+
+        <div id="result">
+            <!-- Rezultatul predicției va apărea aici -->
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 KickScore. All rights reserved.</p>
+    </footer>
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>

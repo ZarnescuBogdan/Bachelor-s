@@ -1,0 +1,97 @@
+/* static/css/styles.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    background-image: url("Premier-League.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.container {
+    width: 60%;
+    margin: auto;
+    overflow: hidden;
+}
+
+h1 {
+    text-align: center;
+    padding: 20px 0;
+    color: white;
+}
+
+form {
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    /*margin-bottom: 15px;*/
+}
+
+label {
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+input[type="text"],
+input[type="number"],
+select {
+    /*width: 100%;*/
+    height: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    grid-column: span 2;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #5cb85c;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: auto;
+}
+
+button:hover {
+    background-color: #4cae4c;
+}
+
+#result {
+    grid-column: span 2;
+    margin-top: 20px;
+    font-size: 18px;
+    text-align: center;
+    color: white;
+}
+
+/* static/css/styles.css */
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #f4f4f4;
+    font-size: 14px;
+    color: #555;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+footer p {
+    margin: 0;
+}
+
